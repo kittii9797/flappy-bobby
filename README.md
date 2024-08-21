@@ -45,5 +45,6 @@ If you would like to contribute to the project, you can:
 
 ## Preview
 
-![bobby](https://github.com/user-attachments/assets/c374f293-2d51-46a3-b751-195ce6c94790)
+![image-bobby](https://github.com/user-attachments/assets/2234ad8e-348b-4f74-b220-71df4bcc40b9)
+
 
